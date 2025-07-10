@@ -38,4 +38,4 @@ Sidebar-Menu/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/sidebar-menu-project.git
+  git clone https://github.com/Dikshit-singh02/Mini_Project.git
